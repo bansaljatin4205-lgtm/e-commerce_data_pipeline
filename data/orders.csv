@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,city,product,category,quantity,price
+1001,2026-10-01,Rahul,Faridabad,Shoes,Fashion,1,2000
+1002,2026-10-01,Aman,Delhi,T-Shirt,Fashion,2,800
+1003,2026-10-02,Priya,Gurugram,Watch,Accessories,1,1500
+1004,2026-10-02,Neha,Faridabad,Bag,Accessories,1,1200
+1005,2026-10-03,Rahul,Faridabad,T-Shirt,Fashion,3,800
+1006,2026-10-03,Aman,Delhi,Shoes,Fashion,1,2000
+1007,2026-10-04,Pooja,Noida,Watch,Accessories,2,1500
+1008,2026-10-04,Neha,Faridabad,Shoes,Fashion,1,2000
+1009,2026-10-05,Rohit,Delhi,Bag,Accessories,2,1200
+1010,2026-10-05,Priya,Gurugram,T-Shirt,Fashion,2,800
